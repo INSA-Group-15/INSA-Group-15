@@ -9,8 +9,7 @@ A web-based system that enables **passengers** and **drivers** of public buses a
 **Report Issues**: Public users (no login required) can report:
 
 - Overpriced fares
-- Poor or unjust transportation services
-- Gas station-related problems
+- Poor or unjust transportation services        
 - Traffic accidents
 
 **Smart Alerts**: The system sends real-time alerts to:
