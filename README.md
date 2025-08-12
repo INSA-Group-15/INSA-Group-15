@@ -10,7 +10,6 @@ A web-based system that enables **passengers** and **drivers** of public buses a
 
 - Overpriced fares
 - Poor or unjust transportation services
-- Gas station-related problems
 - Traffic accidents
 
 **Smart Alerts**: The system sends real-time alerts to:
