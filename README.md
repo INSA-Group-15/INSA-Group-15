@@ -26,7 +26,7 @@ A web-based system that enables **passengers** and **drivers** of public buses a
 
 **Role-Based Access**:
 
-- **No Login**: Passengers and drivers can report anonymously
+- **No Login**: Passengers and drivers can report 
 - **Login Required**: For Traffic Police, Bus Station Managers, and Transportation Office Staff
 
 **Location Integration**:
@@ -41,7 +41,7 @@ A web-based system that enables **passengers** and **drivers** of public buses a
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
         -------------------------------------------
         |    Layer     |      Technology          |
