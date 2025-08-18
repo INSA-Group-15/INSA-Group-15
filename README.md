@@ -48,7 +48,7 @@ A web-based system that enables **passengers** and **drivers** of public buses a
         |--------------|--------------------------|
         | Frontend     | React + Tailwind CSS     |
         | Backend      | Node.js + Express.js     |
-        | Database     | MongoDB                  |
+        | Database     | PostgreSQL               |
         | Third-Party  | Map APIs, Gmail, SMS API |
         -------------------------------------------
 
